@@ -1,0 +1,181 @@
+html{
+    background-color: #531046;
+}
+header{
+    background-color:  #702c63;
+    margin: -8px;
+    padding: 0px;
+    z-index: -1;
+}
+.navbar{
+    position: fixed;
+}
+
+header .class1{
+    background-color: #702c63;
+}
+.navbar p{
+    display: inline;
+    position: relative;
+    top:40px;
+    left: 25%;
+    font-family: DM system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+}
+.fa-magnifying-glass{
+    position: relative;
+    top: -1012px;
+    left: 862pt;
+}
+header img{
+    padding: 10px;
+    position: fixed;
+    
+}
+
+.c1{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: -80px;
+    left: 850pt;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius:50px ;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border: rgb(221, 0, 0);
+}
+.c2{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 25px;
+    right: 150px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius:50px ;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+.h p{
+    font-family: "Oswald",serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 8rem;
+    text-align: center;
+    color: white;
+}
+#hp1{
+
+    font-family: "Oswald",serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-transform: uppercase;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 1.5rem;
+    text-align: center;
+    color: white;
+    margin-top:-100px;
+    padding: 0px;
+}
+.h img{
+    position: relative;
+    bottom: 550px;
+    left: 930px;
+}
+.mid img{
+    width: 700px;
+    height:700px;
+    border-radius:700px;
+    position: relative;
+    bottom: 350px;
+    display: block;
+    margin: auto;
+}
+.mid p {
+    font-family: Tanker;
+    font-weight:bold;
+    font-style: normal;
+    text-align: center;
+    font-size: 5rem;
+    position: relative;
+    bottom: 1000px;
+    color: #702c63;
+    text-transform: uppercase;
+    }
+.emty{
+    width: 200px;
+    height: 250px;
+}
+main{
+    background-color: #531046;
+    margin: -8px;
+    padding: 0px;
+}
+.mid1{
+    position: relative;
+    bottom: 600px;
+    text-align: center;
+}
+.mid1 img{
+width: 300px;
+height: 300px;
+float: left;
+}
+.mid1 p{
+    float: left;
+    color:rgb(255, 255, 255);
+    font-size:3.5rem;
+    margin-left: 70px;
+    
+}
+.mid2{
+    position: relative;
+    bottom: 500px;
+    text-align: center;
+}
+.mid2 img{
+    width: 300px;
+    height: 300px;
+    float:right ;
+}
+
+.mid2 p{
+    float: right;
+    font-size: 3.5rem;
+    margin-right: 70px;
+    color: white;
+}
+
+footer{
+    text-align: center;
+    position: absolute;
+    left: 25%;
+    bottom: -2200px;
+}
+.last img{
+    width: 300px;
+    height: 300px;
+     display: block;
+    margin: auto;
+}
+.last h1{
+    text-transform: uppercase;
+    color: white;
+    font-size: 3.5rem;
+}
+
+.last p{
+    color: white;
+    font-size: 20px;
+}
